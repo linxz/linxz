@@ -11,7 +11,6 @@
    \  \:\\__\/        /__/:/      |__|:|       \  \:\    
     \__\/             \__\/        \__\|        \__\/    
 ```
-![pv since 2021-01-27](https://komarev.com/ghpvc/?username=linxz&color=1677ff&label=🌬🌪_𝟮𝟬𝟮𝟭-𝟬𝟭-𝟮𝟳)
 
 ![](https://github-readme-stats.vercel.app/api?username=linxz&show_icons=true&theme=graywhite) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=linxz&hide=Ruby)
 
